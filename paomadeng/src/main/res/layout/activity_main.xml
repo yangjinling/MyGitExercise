@@ -8,9 +8,9 @@
     tools:context="com.example.paomadeng.MainActivity">
 
     <com.example.paomadeng.view.TextViewAd
-        android:background="@android:color/darker_gray"
-       android:id="@+id/tv"
+        android:id="@+id/tv"
         android:layout_width="match_parent"
-        android:layout_height="50dp"/>
+        android:layout_height="50dp"
+        android:background="@android:color/darker_gray"/>
 
 </LinearLayout>
