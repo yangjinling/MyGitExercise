@@ -100,8 +100,6 @@ public class TextViewAd extends TextView {
         mPaintFront.setAntiAlias(true);
         mPaintFront.setDither(true);
         mPaintFront.setTextSize(30);
-
-
         mPaintBack = new Paint();
         mPaintBack.setAntiAlias(true);
         mPaintBack.setDither(true);
