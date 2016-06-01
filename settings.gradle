@@ -1,1 +1,1 @@
-include ':app', ':paomadeng', ':animationacitivity'
+include ':app', ':paomadeng', ':animationacitivity', ':sample-okhttp'

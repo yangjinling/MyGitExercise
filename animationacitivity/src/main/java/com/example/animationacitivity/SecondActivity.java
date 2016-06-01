@@ -18,7 +18,6 @@ public class SecondActivity extends AppCompatActivity {
         mExecutorService.execute(new Runnable() {
             @Override
             public void run() {
-
             }
         });
     }
