@@ -1,1 +1,1 @@
-include ':app', ':paomadeng', ':animationacitivity', ':sample-okhttp'
+include ':app', ':paomadeng', ':animationacitivity', ':sample-okhttp', ':AndroidStudyCode-master'
