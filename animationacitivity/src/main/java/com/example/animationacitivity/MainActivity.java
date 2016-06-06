@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent=new Intent(MainActivity.this,SecondActivity.class);
                 startActivity(intent);
                 //1、淡入淡出效果
-//                overridePendingTransition(R.anim.fade_in,R.anim.fade_out);
+                overridePendingTransition(R.anim.fade_in,R.anim.fade_out);
                 //2、放大淡出效果
 //                overridePendingTransition(R.anim.scale_in,R.anim.alpha_out);
                 //3、转动淡出效果1
@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 //10、缩小效果
 //                overridePendingTransition(R.anim.zoom_enter,R.anim.zoom_exit);
                 //11、上下交错效果
-                overridePendingTransition(R.anim.slide_up_in,R.anim.slide_down_out);
+//                overridePendingTransition(R.anim.slide_up_in,R.anim.slide_down_out);
             }
         });
 
